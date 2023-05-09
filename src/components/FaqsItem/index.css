@@ -1,0 +1,29 @@
+.list{
+    list-style-type: none;
+    border:1px solid #d7dae6;
+    border-radius: 10px;
+    padding:20px;
+    margin:10px;
+    margin-left:0px;
+}
+.con{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.line{
+    color:#e4e7eb;
+}
+.question{
+    color:#52606d;
+    font-weight: bold;
+    font-size:25px;
+}
+.answer{
+    color:#9aa5b1;
+}
+.button{
+    background-color: transparent;
+    border:none;
+    cursor: pointer;
+}
